@@ -8,19 +8,21 @@ class Solution {
                 dp[i][j]=-1;
             }
         }
-        return minStep(s, 0, s.length() - 1);
+        int ans = minStep(s, 0, n-1);
+        return n - ans;
     }
 
     public int minStep(String s, int left, int right) {
-        if (left >= right)
-            return 0;
+        if(left == right) return 1;
+        if(left > right) return 0;
         if(dp[left][right] != -1) return dp[left][right];
-        if (s.charAt(left) == s.charAt(right)) {
-            return minStep(s, left + 1, right - 1);
+        char ch1 = s.charAt(left);
+        char ch2 = s.charAt(right);
+        if(ch1 == ch2) {
+            return dp[left][right] = 2 + minStep(s, left + 1, right - 1);
         }
-
-        return dp[left][right] =  1 + Math.min(
-                minStep(s, left + 1, right),
-                minStep(s, left, right - 1));
+        else {
+            return dp[left][right] = Math.max(minStep(s, left + 1, right), minStep(s, left, right - 1));
+        }
     }
 }
