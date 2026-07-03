@@ -1,28 +1,50 @@
 class Solution {
-    static int[][] dp;
-    public int minInsertions(String s) {
-        int n = s.length();
-        dp = new int[n][n];
-        for(int i=0;i<n;i++) {
-            for(int j=0;j<n;j++) {
-                dp[i][j]=-1;
+    public int longestCommonSubsequence(String text1, String text2) {
+        StringBuilder sb1 = new StringBuilder(text1);
+        StringBuilder sb2 = new StringBuilder(text2);
+        int m = sb1.length();
+        int n = sb2.length();
+
+        int[][] dp = new int[m][n];
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                dp[i][j] = -1;
             }
         }
-        int ans = minStep(s, 0, n-1);
-        return n - ans;
+
+        return CommonSubsequence(sb1, sb2, m - 1, n - 1, dp);
     }
 
-    public int minStep(String s, int left, int right) {
-        if(left == right) return 1;
-        if(left > right) return 0;
-        if(dp[left][right] != -1) return dp[left][right];
-        char ch1 = s.charAt(left);
-        char ch2 = s.charAt(right);
-        if(ch1 == ch2) {
-            return dp[left][right] = 2 + minStep(s, left + 1, right - 1);
+    public int CommonSubsequence(StringBuilder text1, StringBuilder text2, int idx1, int idx2, int[][] dp) {
+
+        if (idx1 < 0 || idx2 < 0) {
+            return 0;
         }
-        else {
-            return dp[left][right] = Math.max(minStep(s, left + 1, right), minStep(s, left, right - 1));
+
+        if (dp[idx1][idx2] != -1) {
+            return dp[idx1][idx2];
         }
+        if (text1.charAt(idx1) == text2.charAt(idx2)) {
+            return dp[idx1][idx2] = 1 + CommonSubsequence(text1, text2, idx1 - 1, idx2 - 1, dp);
+        }
+
+        return dp[idx1][idx2] = Math.max(CommonSubsequence(text1, text2, idx1 - 1, idx2, dp), CommonSubsequence(text1, text2, idx1, idx2 - 1, dp));
+    }
+
+
+    public String reverse(String s) {
+        StringBuilder sb = new StringBuilder(s);
+        sb.reverse();
+        s = sb.toString();
+        return s;
+    }
+
+    public int longestPalindromeSubseq(String s) {
+        return longestCommonSubsequence(s, reverse(s));
+    }
+
+    public int minInsertions(String s) {
+        return s.length() - longestPalindromeSubseq(s);
     }
 }
