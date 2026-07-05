@@ -17,6 +17,7 @@ class Solution {
                 }
             }
         }
+        printLCS(dp, text1, text2);
         return dp[m][n];
     }
 
@@ -35,4 +36,30 @@ class Solution {
     //             CommonSubsequence(text1, text2, idx1 - 1, idx2),
     //             CommonSubsequence(text1, text2, idx1, idx2 - 1));
     // }
+
+    //print lcs
+    public void printLCS(int[][] dp, String text1, String text2) {
+
+    int m = text1.length();
+    int n = text2.length();
+
+    StringBuilder sb = new StringBuilder();
+
+    while (m > 0 && n > 0) {
+
+        if (text1.charAt(m - 1) == text2.charAt(n - 1)) {
+            sb.append(text1.charAt(m - 1));
+            m--;
+            n--;
+        }
+        else if (dp[m - 1][n] >= dp[m][n - 1]) {
+            m--;
+        }
+        else {
+            n--;
+        }
+    }
+
+    System.out.println(sb.reverse().toString());
+}
 }
