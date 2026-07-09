@@ -1,5 +1,9 @@
 class Solution {
     public int countSubstrings(String s) {
+        //bruteforce - Approach 1
+        return Substring(s);
+    }
+    public int Substring(String s) {
         int count = 0;
         for(int i=0;i<s.length();i++) {
             for(int j=i;j<s.length();j++) {
