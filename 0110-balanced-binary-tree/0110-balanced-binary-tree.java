@@ -1,18 +1,22 @@
 
 class Solution {
-    static boolean flag;
+    // optimzation using memoaization
+    HashMap<TreeNode, Integer> dp = new HashMap<>();
     public int levels(TreeNode root) {
         if(root == null) return 0;
+        if (dp.containsKey(root)) return dp.get(root);
         int left = levels(root.left);
         int right = levels(root.right);
-        if(Math.abs(left - right)>1){
-            flag = false;
-        }
-        return 1 + Math.max(left, right);
+        int bal = 1 + Math.max(left, right);
+        dp.put(root, bal);
+        return bal;
     }
     public boolean isBalanced(TreeNode root) {
-        flag = true;
-        levels(root);
-        return flag;
+        if(root == null) return true;
+        if(Math.abs(levels(root.left)-levels(root.right))>1){
+            return false;
+        }
+        return (isBalanced(root.left) && isBalanced(root.right));
+
     }
 }
