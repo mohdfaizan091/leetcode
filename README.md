@@ -15,6 +15,7 @@
 | [0072-edit-distance](https://github.com/mohdfaizan091/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/mohdfaizan091/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohdfaizan091/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0300-longest-increasing-subsequence](https://github.com/mohdfaizan091/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/mohdfaizan091/leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/mohdfaizan091/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/mohdfaizan091/leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
@@ -24,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mohdfaizan091/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/mohdfaizan091/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/mohdfaizan091/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/mohdfaizan091/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
