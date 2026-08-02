@@ -1,24 +1,20 @@
 class Solution {
     public List<List<Integer>> combine(int n, int k) {
         List<List<Integer>> ans = new ArrayList<>();
-        int[] nums = new int[n];
-        for(int i = 0 ; i<n ; i++) {
-            nums[i] = i + 1;
-        }
-        List<Integer> comb = new ArrayList<>();
-        backTrack(ans , comb , nums , 0 , k);
+        List<Integer> combination = new ArrayList<>();
+        Combination(ans , combination , 0 , n , k);
         return ans;
     }
-    public void backTrack(List<List<Integer>> ans , List<Integer> comb , int[] nums , int idx , int k) {
-        if(comb.size() == k) {
-            ans.add(new ArrayList<>(comb));
+    public void Combination(List<List<Integer>> ans , List<Integer> combination , int j , int n , int k) {
+        if(combination.size() == k) {
+            ans.add(new ArrayList<>(combination));
             return;
         }
 
-        for(int i = idx ; i<nums.length ; i++) {
-            comb.add(nums[i]);
-            backTrack(ans , comb , nums , i + 1 , k);
-            comb.remove(comb.size()-1);
+        for(int i=j ; i<n ; i++) {
+            combination.add(i+1);
+            Combination(ans , combination , i + 1 , n , k);
+            combination.remove(combination.size()-1);
         }
     }
 }
