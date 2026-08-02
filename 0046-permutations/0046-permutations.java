@@ -1,22 +1,25 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
-        List<Integer> perm = new ArrayList<>();
-        backTrack(result , perm , nums);
-        return result;
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> permutation = new ArrayList<>();
+        backTrack(ans , permutation , nums);
+        return ans;
     }
-    public void backTrack(List<List<Integer>> result , List<Integer> perm , int[] nums) {
-        if(perm.size() == nums.length) {
-            result.add(new ArrayList<>(perm));
+
+    public void backTrack(List<List<Integer>> ans , List<Integer> permutation , int[] nums) {
+        if(permutation.size() == nums.length) {
+            ans.add(new ArrayList<>(permutation));
             return;
         }
-        for(int i = 0 ; i<nums.length ; i++) {
-            if(perm.contains(nums[i])) {
+
+        for(int i=0 ; i<nums.length ; i++) {
+            if(permutation.contains(nums[i])) {
                 continue;
             }
-            perm.add(nums[i]);
-            backTrack(result , perm , nums);
-            perm.remove(perm.size()-1);
+
+            permutation.add(nums[i]);
+            backTrack(ans , permutation , nums);
+            permutation.remove(permutation.size()-1);
         }
     }
 }
