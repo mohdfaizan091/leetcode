@@ -1,38 +1,43 @@
 class Solution {
     public List<List<String>> solveNQueens(int n) {
-        char[][] arr = new char[n][n];
-        List<List<String>> ans = new ArrayList<>();
+        Character[][] board = new Character[n][n];
         for(int i=0 ; i<n ; i++) {
             for(int j=0 ; j<n ; j++) {
-                arr[i][j] = '.';
+                board[i][j] = '.';
             }
         }
-        Queen(ans , arr  , 0);
-        return ans;
+        List<List<String>> finalQuePosition = new ArrayList<>();
+        Queen(finalQuePosition , board , 0);
+        return finalQuePosition;
     }
 
-    public void Queen(List<List<String>> ans , char[][] arr , int row) {
-        if(row == arr.length) {
-            ans.add(makeString(arr));
-            return;
+    public void Queen(List<List<String>> finalQuePosition , Character[][] board , int row) {
+        // base case 
+
+        if(row == board.length) {
+            List<String> currPosQueen = new ArrayList<>();
+            for(int i=0 ; i<board.length ; i++) {
+                String s = "";
+                for(int j=0 ; j<board.length ; j++) {
+                    s+=board[i][j];
+                }
+                currPosQueen.add(s);
+            }
+            finalQuePosition.add(new ArrayList<>(currPosQueen));
         }
-        for(int j=0 ; j<arr.length ; j++) {
-            if(isSafe(arr , row , j)) {
-                arr[row][j] = 'Q';
-                Queen(ans , arr, row + 1);
-                arr[row][j] = '.';
+
+
+        for(int col=0 ; col<board.length ; col++) {
+            if(isSafePosition(board , row , col)) {
+                board[row][col] = 'Q';
+                Queen(finalQuePosition , board , row + 1);
+                //backTrack
+                board[row][col] = '.';
             }
         }
     }
 
-    public List<String> makeString(char[][] arr) {
-        List<String> temp = new ArrayList<>();
-        for (int i = 0; i < arr.length; i++) {
-            temp.add(new String(arr[i]));
-        }
-        return temp;
-    }
-    public boolean isSafe(char[][] matrix, int row, int col) {
+    public boolean isSafePosition(Character[][] matrix, int row, int col) {
         int n = matrix.length;
 
         for (int i = 0; i < n; i++) {
