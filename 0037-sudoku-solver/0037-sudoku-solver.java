@@ -1,32 +1,28 @@
 class Solution {
     public void solveSudoku(char[][] board) {
-        Solve(board);
+        sudoko(board);
     }
-
-    public boolean Solve(char[][] board) {
-        for (int row = 0; row < board.length; row++) {
-            for (int col = 0; col < board.length; col++) {
-                if (board[row][col] == '.') {
-                    for (int val = 1; val <= 9; val++) {
-                        if (isValidNo(val, board, row, col)) {
-                            board[row][col] = (char) (val + '0'); // convert int 1–9 to char '1'–'9'
-
-                            if (Solve(board)) {
-                                return true; // found solution, stop
+    public boolean sudoko(char[][] board) {
+        for(int i=0 ; i<board.length ; i++) {
+            for(int j=0 ; j<board[0].length ; j++) {
+                if(board[i][j] == '.') {
+                    for(int val=1 ; val<=9 ; val++) {
+                        if(isValid(i , j , val , board)) {
+                            board[i][j] = (char) (val + '0');
+                            if(sudoko(board)) {
+                                return true;
                             }
-
-                            // backtrack
-                            board[row][col] = '.';
+                            board[i][j] = '.';
                         }
                     }
-                    return false; // no valid number here → backtrack
+                    return false;
                 }
             }
         }
-        return true; // no empty cell left → solved
+        return true;
     }
 
-    public boolean isValidNo(int val, char[][] board, int row, int col) {
+    public boolean isValid(int row , int col , int val, char[][] board) {
         char ch = (char) (val + '0'); // convert int 1–9 to char '1'–'9'
 
         // row wise checking
@@ -61,4 +57,5 @@ class Solution {
         // if no condition violates, val is valid
         return true;
     }
+
 }
