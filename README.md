@@ -33,6 +33,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/mohdfaizan091/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mohdfaizan091/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/mohdfaizan091/leetcode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
+| [1710-maximum-units-on-a-truck](https://github.com/mohdfaizan091/leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@
 | [0011-container-with-most-water](https://github.com/mohdfaizan091/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mohdfaizan091/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/mohdfaizan091/leetcode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
+| [1710-maximum-units-on-a-truck](https://github.com/mohdfaizan091/leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +105,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mohdfaizan091/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/mohdfaizan091/leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 <!---LeetCode Topics End-->
