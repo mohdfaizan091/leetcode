@@ -1,12 +1,19 @@
 class Solution { 
+
+    // same as fractional knapsack -- same intiution
+
     class items {
+
         int no_of_box;
         int per_unit_of_that_box;
+
+        // constructor
         items(int no_of_box , int per_unit_of_that_box) {
             this.no_of_box = no_of_box;
             this.per_unit_of_that_box = per_unit_of_that_box;
         }
     }
+    
     public int maximumUnits(int[][] boxTypes, int truckSize) {
         int n = boxTypes.length;
         items[] item = new items[n];
