@@ -1,22 +1,20 @@
 class Solution {
     public int numRescueBoats(int[] people, int limit) {
         Arrays.sort(people);
-        // travers to all people of weight i 
-        int left=0;
-        int right=people.length-1;
-        int count=0;
-        while(left<=right) {
-            int limits = limit;
-            if(people[right] <= limits) {
-                limits -= people[right];
-                right--;
+        int lighterPeople = 0;
+        int heavierPeople = people.length-1;
+        int noOfBoats = 0;
+        while(lighterPeople <= heavierPeople) {
+            if(people[lighterPeople] + people[heavierPeople] <= limit) {
+                noOfBoats++;
+                lighterPeople++;
+                heavierPeople--;
             }
-            if(people[left] <= limits) {
-                limits -= people[left];
-                left++;
+            else {
+                noOfBoats++;
+                heavierPeople--;
             }
-            count++;
         }
-        return count;
+        return noOfBoats;
     }
 }
