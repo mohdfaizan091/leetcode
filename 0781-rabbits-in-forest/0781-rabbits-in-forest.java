@@ -1,5 +1,10 @@
 class Solution {
     public int numRabbits(int[] answers) {
+        // return noOfRabbitUsingSimpleApproach(answers)
+        return noOfRabbitUsingHashMap(answers);
+    }
+
+    public int noOfRabbitUsingSimpleApproach(int[] answers) {
         int count=0;
         int samecolor = 0;
         Arrays.sort(answers);
@@ -27,5 +32,35 @@ class Solution {
             }
         }
         return count;
+    }
+
+
+    public int noOfRabbitUsingHashMap(int[] answers) {
+        HashMap<Integer, Integer> maps = new HashMap<>();
+
+        for (int i = 0; i < answers.length; i++) {
+            int groupSize = answers[i] + 1;
+
+            if (maps.containsKey(groupSize)) {
+                int freq = maps.get(groupSize);
+                maps.put(groupSize, freq + 1);
+            } else {
+                maps.put(groupSize, 1);
+            }
+        }
+
+        int ans = 0;
+
+        for (int groupSize : maps.keySet()) {
+
+            int freq = maps.get(groupSize);
+            int groups = freq / groupSize;
+            if (freq % groupSize != 0) {
+                groups++;
+            }
+            ans += groups * groupSize;
+        }
+        
+        return ans;
     }
 }
