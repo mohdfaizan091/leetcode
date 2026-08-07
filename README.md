@@ -16,6 +16,7 @@
 | [0096-unique-binary-search-trees](https://github.com/mohdfaizan091/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohdfaizan091/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/mohdfaizan091/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/mohdfaizan091/leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/mohdfaizan091/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/mohdfaizan091/leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
@@ -32,6 +33,7 @@
 | [0051-n-queens](https://github.com/mohdfaizan091/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0056-merge-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/mohdfaizan091/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohdfaizan091/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/mohdfaizan091/leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0881-boats-to-save-people](https://github.com/mohdfaizan091/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -48,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mohdfaizan091/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohdfaizan091/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/mohdfaizan091/leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0881-boats-to-save-people](https://github.com/mohdfaizan091/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -115,6 +118,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohdfaizan091/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0881-boats-to-save-people](https://github.com/mohdfaizan091/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mohdfaizan091/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
