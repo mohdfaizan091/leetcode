@@ -1,41 +1,32 @@
 class Solution {
-    public int findLongestChain(int[][] pairs) {
-        return pair(pairs);
-    }
-
-    class intervalsClass {
-        int startInterval;
-        int endInterval;
-
-        intervalsClass(int startInterval, int endInterval) {
-            this.startInterval = startInterval;
-            this.endInterval = endInterval;
+    class intervals {
+        int startInt;
+        int endInt;
+        intervals(int startInt , int endInt) {
+            this.startInt = startInt;
+            this.endInt = endInt;
         }
     }
-
-    public int pair(int[][] intervals) {
-
-        int n = intervals.length;
+    public int findLongestChain(int[][] pairs) {
+        int n = pairs.length;
         if (n == 0) return 0;
 
-        intervalsClass[] inter = new intervalsClass[n];
+        intervals[] result = new intervals[n];
 
-        for (int i = 0; i < n; i++) {
-            inter[i] = new intervalsClass(intervals[i][0], intervals[i][1]);
+        for(int i=0 ; i<n ; i++) {
+            result[i] = new intervals(pairs[i][0] , pairs[i][1]);
         }
 
-        Arrays.sort(inter, (a1, a2) -> Integer.compare(a1.endInterval, a2.endInterval));
+        Arrays.sort(result , (a1 , a2) -> Integer.compare(a1.endInt , a2.endInt));
 
-        int countPairs = 1;
-        int i = 0;
-
-        for (int j = 1; j < n; j++) {
-            if (inter[j].startInterval > inter[i].endInterval) {
-                countPairs++;
-                i = j;
+        int count = 1;
+        int i=0;
+        for(int j=1 ; j<n ; j++) {
+            if(result[j].startInt > result[i].endInt) {
+                count++;
+                i=j;
             }
         }
-
-        return countPairs;
+        return count;
     }
 }
