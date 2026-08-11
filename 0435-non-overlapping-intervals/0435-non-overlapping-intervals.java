@@ -1,10 +1,4 @@
 class Solution {
-    //space optimized - than previous
-    public int eraseOverlapIntervals(int[][] intervals) {
-        int ans = merge(intervals);
-        return ans;
-    }
-
     class intervalsClass {
         int startInterval;
         int endInterval;
@@ -15,8 +9,7 @@ class Solution {
         }
     }
 
-    public int merge(int[][] intervals) {
-
+    public int eraseOverlapIntervals(int[][] intervals) {
         int n = intervals.length;
         int noOfOverlapingInterval = 0;
 
@@ -26,15 +19,12 @@ class Solution {
             inter[i] = new intervalsClass(intervals[i][0], intervals[i][1]);
         }
 
-        Arrays.sort(inter,
-                (a1, a2) -> Integer.compare(a1.startInterval, a2.startInterval));
+        Arrays.sort(inter,(a1, a2) -> Integer.compare(a1.startInterval, a2.startInterval));
 
         int i = 0;
         while (i < n) {
 
-            int start = inter[i].startInterval;
             int end = inter[i].endInterval;
-
             int j = i + 1;
 
             while (j < n && end > inter[j].startInterval) {
@@ -46,5 +36,6 @@ class Solution {
         }
 
         return noOfOverlapingInterval;
+
     }
 }
