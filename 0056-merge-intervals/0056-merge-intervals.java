@@ -1,5 +1,6 @@
 class Solution {
-
+    
+    // making object startInterval, endInterval
     class intervalsClass {
         int startInterval;
         int endInterval;
@@ -9,7 +10,7 @@ class Solution {
             this.endInterval = endInterval;
         }
     }
-
+    // merging interval
     public int[][] merge(int[][] intervals) {
 
         int n = intervals.length;
