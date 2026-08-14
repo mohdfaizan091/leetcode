@@ -1,20 +1,21 @@
 class Solution {
     public List<List<Integer>> combine(int n, int k) {
-        List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> combination = new ArrayList<>();
-        Combination(ans , combination , 0 , n , k);
-        return ans;
+        List<List<Integer>> result = new ArrayList<>();
+        List<Integer> temp = new ArrayList<>();
+        computeNoOfCombination(result , temp , n , k , 0);
+        return result;
     }
-    public void Combination(List<List<Integer>> ans , List<Integer> combination , int j , int n , int k) {
-        if(combination.size() == k) {
-            ans.add(new ArrayList<>(combination));
+    
+    public void computeNoOfCombination(List<List<Integer>> result , List<Integer> temp , int n , int k , int idx) {
+        if(temp.size() == k) {
+            // combination of size k is generated
+            result.add(new ArrayList<>(temp));
             return;
         }
-
-        for(int i=j ; i<n ; i++) {
-            combination.add(i+1);
-            Combination(ans , combination , i + 1 , n , k);
-            combination.remove(combination.size()-1);
+        for(int i=idx ; i<n ; i++) {
+            temp.add(i + 1);
+            computeNoOfCombination(result , temp , n , k , i + 1);
+            temp.remove(temp.size()-1);
         }
     }
 }
