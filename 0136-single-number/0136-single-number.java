@@ -1,6 +1,6 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        return findSingleNo(nums);
+        return findSingleNo2(nums);
     }
 
     //approach 1 : bruteforce
@@ -15,5 +15,18 @@ class Solution {
             if(flag == true) return nums[i];
         }
         return 0;
+    }
+
+    //approach 2 : Sorting
+    public int findSingleNo2(int[] nums) {
+        Arrays.sort(nums);
+        int i=0;
+        while(i<nums.length-2) {
+            if(nums[i] != nums[i+1]) {
+                return nums[i];
+            }
+            i = i + 2;
+        }
+        return nums[i];
     }
 }
