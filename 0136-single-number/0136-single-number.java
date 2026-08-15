@@ -1,9 +1,9 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        return findSingleNo3(nums);
+        return findSingleNo4(nums);
     }
 
-    //approach 1 : bruteforce
+    //approach 1 : bruteforce,  TC = O(n^2) SC = O(1)
     public int findSingleNo(int[] nums) {
         for(int i=0 ; i<nums.length ; i++) {
             boolean flag = true;
@@ -17,7 +17,7 @@ class Solution {
         return 0;
     }
 
-    //approach 2 : Sorting
+    //approach 2 : Sorting TC = O(nlog(n)) SC = O(1)
     public int findSingleNo2(int[] nums) {
         Arrays.sort(nums);
         int i=0;
@@ -30,7 +30,7 @@ class Solution {
         return nums[i];
     }
 
-    //approach 3 : hashmap
+    //approach 3 : hashmap TC = O(n) SC = O(n)
     public int findSingleNo3(int[] nums) {
         HashMap<Integer , Integer> map = new HashMap<>();
         for(int ele : nums) {
@@ -45,5 +45,15 @@ class Solution {
             if(fre == 1) return ele;
         }
         return 0;
+    }
+
+    //approach 4 : xor (Bit-Manipulation)  TC = O(1) SC = O(1)
+    
+    public int findSingleNo4(int[] nums) {
+        int ans = 0;
+        for(int i=0 ; i<nums.length ; i++) {
+            ans ^= nums[i];
+        }
+        return ans;
     }
 }
