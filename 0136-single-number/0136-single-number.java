@@ -1,6 +1,6 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        return findSingleNo2(nums);
+        return findSingleNo3(nums);
     }
 
     //approach 1 : bruteforce
@@ -28,5 +28,22 @@ class Solution {
             i = i + 2;
         }
         return nums[i];
+    }
+
+    //approach 3 : hashmap
+    public int findSingleNo3(int[] nums) {
+        HashMap<Integer , Integer> map = new HashMap<>();
+        for(int ele : nums) {
+            if(map.containsKey(ele)) {
+                map.put(ele , 2);
+            } else {
+                map.put(ele , 1);
+            }
+        }
+        for(int ele : map.keySet()) {
+            int fre = map.get(ele);
+            if(fre == 1) return ele;
+        }
+        return 0;
     }
 }
