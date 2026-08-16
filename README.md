@@ -66,6 +66,7 @@
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/mohdfaizan091/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0231-power-of-two](https://github.com/mohdfaizan091/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/mohdfaizan091/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/mohdfaizan091/leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -147,11 +148,13 @@
 | [0136-single-number](https://github.com/mohdfaizan091/leetcode/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mohdfaizan091/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/mohdfaizan091/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/mohdfaizan091/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/mohdfaizan091/leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/mohdfaizan091/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/mohdfaizan091/leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
