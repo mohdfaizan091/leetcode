@@ -4,13 +4,12 @@ class Solution {
         int n = nums.length;
         int total = 1 << n;
         for(int i=0 ; i<total ; i++) {
-            int num = i;
             List<Integer> temp = new ArrayList<>();
             for(int bitIdx=0 ; bitIdx<n ; bitIdx++) {
-                if(num%2 !=0) {
-                    temp.add(nums[bitIdx]);
-                }
-                num = num >> 1;
+                // (1 << bitIdx) =: to check the perticular bit is set or not set
+                int mask = (1 << bitIdx);
+                // if set : 
+                if((mask & i) != 0) temp.add(nums[bitIdx]);
             }
             ans.add(temp);
         }
