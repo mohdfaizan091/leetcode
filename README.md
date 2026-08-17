@@ -43,6 +43,7 @@
 | [0781-rabbits-in-forest](https://github.com/mohdfaizan091/leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0881-boats-to-save-people](https://github.com/mohdfaizan091/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mohdfaizan091/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1310-xor-queries-of-a-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/mohdfaizan091/leetcode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/mohdfaizan091/leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Two Pointers
@@ -155,6 +156,7 @@
 | [0231-power-of-two](https://github.com/mohdfaizan091/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/mohdfaizan091/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0342-power-of-four](https://github.com/mohdfaizan091/leetcode/tree/main/0342-power-of-four/) | Easy |
+| [1310-xor-queries-of-a-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/mohdfaizan091/leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -166,4 +168,8 @@
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/mohdfaizan091/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mohdfaizan091/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 <!---LeetCode Topics End-->
