@@ -8,14 +8,9 @@ class Solution {
             int mask2 = 1 << i;
 
             if(((n & mask1) != 0) != ((n & mask2) != 0)) {
-                // bit wise swaping
-                if((n & mask1) == 0) {
-                    n = n | mask1;
-                    n = n & (~mask2);
-                } else {
-                    n = n | mask2;
-                    n = n & (~mask1);
-                }
+                // flip the ith and jth bit
+                n ^= mask1;
+                n ^= mask2;
             }
 
             i++;
