@@ -1,33 +1,27 @@
 class Solution {
-    public static int findCircleNum(int[][] adj) {
-        boolean[] isVisited = new boolean[adj.length];
+    public int findCircleNum(int[][] adjMatrix) {
+        int n = adjMatrix.length;
         int count = 0;
-
-        for (int i = 0; i < adj.length; i++) {
-            if (!isVisited[i]) {
-                bfs(adj, isVisited, i);
+        boolean[] isVisited = new boolean[n];
+        for(int i=0 ; i<n ; i++) {
+            if(!isVisited[i]) {
+                bfs(isVisited , adjMatrix , i);
                 count++;
             }
         }
         return count;
     }
-
-    public static void bfs(int[][] adj, boolean[] isVisited, int row) {
+    public void bfs(boolean[] isVisited , int[][] adjMatrix , int row) {
         Queue<Integer> q = new LinkedList<>();
-
-        q.add(row);
         isVisited[row] = true;
-
-        while (q.size() != 0) {
-            int temp = q.poll();
-            int j = 0;
-
-            while (j < adj.length) {
-                if (adj[temp][j] == 1 && !isVisited[j]) {
-                    q.add(j);
+        q.add(row);
+        while(q.size() > 0) {
+            int i = q.remove();
+            for(int j=0 ; j<adjMatrix.length ; j++) {
+                if(adjMatrix[i][j] == 1 && !isVisited[j]) {
                     isVisited[j] = true;
+                    q.add(j);
                 }
-                j++;
             }
         }
     }
