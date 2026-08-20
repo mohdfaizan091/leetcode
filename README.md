@@ -35,6 +35,7 @@
 | [0056-merge-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/mohdfaizan091/leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/mohdfaizan091/leetcode/tree/main/0136-single-number/) | Easy |
+| [0200-number-of-islands](https://github.com/mohdfaizan091/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0260-single-number-iii](https://github.com/mohdfaizan091/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/mohdfaizan091/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -97,6 +98,7 @@
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohdfaizan091/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0200-number-of-islands](https://github.com/mohdfaizan091/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/mohdfaizan091/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/mohdfaizan091/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -124,6 +126,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/mohdfaizan091/leetcode/tree/main/0037-sudoku-solver/) | Hard |
+| [0200-number-of-islands](https://github.com/mohdfaizan091/leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,12 +183,14 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/mohdfaizan091/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/mohdfaizan091/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/mohdfaizan091/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohdfaizan091/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/mohdfaizan091/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/mohdfaizan091/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohdfaizan091/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
