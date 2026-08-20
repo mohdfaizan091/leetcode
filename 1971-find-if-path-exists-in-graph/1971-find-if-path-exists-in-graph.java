@@ -13,21 +13,22 @@ class Solution {
             list.get(b).add(a);
         }
         boolean[] isVis = new boolean[n];
-        bfs(list , isVis , start);
+        bfs(list , isVis , start , end);
         return isVis[end];
     }
-    public void bfs(List<List<Integer>> rooms , boolean[] visited , int key) {
+    public void bfs(List<List<Integer>> list , boolean[] visited , int start , int end) {
         Queue<Integer> q = new LinkedList<>();
 
-        q.add(key);
-        visited[key] = true;
+        q.add(start);
+        visited[start] = true;
 
         while (!q.isEmpty()) { 
         int currentRoom = q.remove(); 
-            for (int neighbor : rooms.get(currentRoom)) { 
+            for (int neighbor : list.get(currentRoom)) { 
                 if (!visited[neighbor]) { 
                     q.add(neighbor); 
                     visited[neighbor] = true; 
+                    if(neighbor == end) return;
                 } 
             } 
         }
