@@ -1,24 +1,31 @@
 class Solution {
-    public boolean canVisitAllRooms(List<List<Integer>> list) {
-        int n = list.size();
-        boolean[] isVisited = new boolean[n];
-        isVisited[0] = true;
-        Queue<Integer> q = new LinkedList<>();
-        q.add(0);
-        while (q.size() > 0) {
-            int temp = q.remove();
-            List<Integer> li = list.get(temp);
-            for(int i=0 ; i<li.size() ; i++) {
-                int roomKey = li.get(i);
-                if(!isVisited[roomKey]) {
-                    isVisited[roomKey] = true;
-                    q.add(roomKey);
-                }
-            }
-        }
-        for(int i=0 ; i<isVisited.length ; i++) {
-            if(isVisited[i] == false) return false;
+    public boolean canVisitAllRooms(List<List<Integer>> rooms) {
+        int n = rooms.size();
+        boolean[] visited = new boolean[n];
+
+        //breeadth first search
+        bfs(rooms , visited , 0);
+        
+        // check if any rooms is unvisited
+        for(int i=0 ; i<n ; i++) {
+            if(!visited[i]) return false;
         }
         return true;
+    }
+    public void bfs(List<List<Integer>> rooms , boolean[] visited , int key) {
+        Queue<Integer> q = new LinkedList<>();
+
+        q.add(key);
+        visited[key] = true;
+
+        while (!q.isEmpty()) { 
+        int currentRoom = q.remove(); 
+            for (int neighbor : rooms.get(currentRoom)) { 
+                if (!visited[neighbor]) { 
+                    q.add(neighbor); 
+                    visited[neighbor] = true; 
+                } 
+            } 
+        }
     }
 }
