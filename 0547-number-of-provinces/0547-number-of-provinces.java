@@ -1,5 +1,9 @@
 class Solution {
     public int findCircleNum(int[][] adjMatrix) {
+        int bfs = breadthFirstSearch(adjMatrix);
+        return bfs; 
+    }
+    public int breadthFirstSearch(int[][] adjMatrix) {
         int n = adjMatrix.length;
         int count = 0;
         boolean[] isVisited = new boolean[n];
