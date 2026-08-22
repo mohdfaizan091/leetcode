@@ -1,7 +1,8 @@
 class Solution {
     public int findCircleNum(int[][] adjMatrix) {
         int bfs = breadthFirstSearch(adjMatrix);
-        return bfs; 
+        int dsf = depthFirstSearch(adjMatrix);
+        return dsf; 
     }
     public int breadthFirstSearch(int[][] adjMatrix) {
         int n = adjMatrix.length;
@@ -26,6 +27,26 @@ class Solution {
                     isVisited[j] = true;
                     q.add(j);
                 }
+            }
+        }
+    }
+    public int depthFirstSearch(int[][] adjMatrix) {
+        int n = adjMatrix.length;
+        int count = 0;
+        boolean[] isVisited = new boolean[n];
+        for(int i=0 ; i<n ; i++) {
+            if(!isVisited[i]) {
+                dfs(isVisited , adjMatrix , i);
+                count++;
+            }
+        }
+        return count;
+    }
+    public void dfs(boolean[] isVisited , int[][] adjMatrix , int i) {
+        isVisited[i] = true;
+        for(int j=0 ; j<adjMatrix.length ; j++) {
+            if(!isVisited[j] && adjMatrix[i][j] == 1) {
+                dfs(isVisited , adjMatrix , j);
             }
         }
     }
