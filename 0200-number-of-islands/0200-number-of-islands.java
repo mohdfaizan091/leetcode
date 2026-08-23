@@ -1,6 +1,10 @@
 class Solution {
     public int numIslands(char[][] grid) {
-
+        int bfs = breadthFirstSearch(grid);
+        int dfs = depthFirstSearch(grid);
+        return dfs;
+    }
+    public int breadthFirstSearch(char[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
 
@@ -50,5 +54,36 @@ class Solution {
                 }
             }
         }
+    }
+    public int depthFirstSearch(char[][] grid) {
+        int m = grid.length;
+        int n = grid[0].length;
+
+        int count = 0;
+        boolean[][] isVisited = new boolean[m][n];
+
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(grid[i][j] == '1' && !isVisited[i][j]) {
+                    count++;
+                    dfs(grid, isVisited, i, j);
+                }
+            }
+        }
+        return count;
+    }
+    public void dfs(char[][] grid , boolean[][] isVisited , int row , int col) {
+        //base case
+        if (row < 0 || row >= grid.length || col < 0 || col >= grid[0].length) {
+            return;
+        }
+        if(isVisited[row][col] || grid[row][col] == '0') return;
+
+        isVisited[row][col] = true;
+
+        dfs(grid, isVisited, row, col + 1); // right
+        dfs(grid, isVisited, row, col - 1); // left
+        dfs(grid, isVisited, row - 1, col); // top
+        dfs(grid, isVisited, row + 1, col); // bottom
     }
 }
