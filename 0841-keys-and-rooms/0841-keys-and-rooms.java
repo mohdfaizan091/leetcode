@@ -1,14 +1,14 @@
 class Solution {
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
-        boolean dfs = depthFirstSearch(rooms);
-        return dfs;
+        return canVisitAllRoom(rooms);
     }
-    public boolean depthFirstSearch(List<List<Integer>> rooms) {
+    
+    public boolean canVisitAllRoom(List<List<Integer>> rooms) {
         int n = rooms.size();
         boolean[] visited = new boolean[n];
 
-        //breeadth first search
         dfs(rooms , visited , 0);
+        // bfs(rooms , visited , 0);
         
         // check if any rooms is unvisited
         for(int i=0 ; i<n ; i++) {
@@ -16,6 +16,9 @@ class Solution {
         }
         return true;
     } 
+    
+
+    // dfs
     public void dfs(List<List<Integer>> rooms , boolean[] visited , int idx) {
         visited[idx] = true;
         List<Integer> list = rooms.get(idx);
@@ -25,6 +28,9 @@ class Solution {
             }
         }
     }
+
+
+    // bfs
     public void bfs(List<List<Integer>> rooms , boolean[] visited , int key) {
         Queue<Integer> q = new LinkedList<>();
 
