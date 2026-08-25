@@ -1,54 +1,49 @@
 class Solution {
     public boolean isBipartite(int[][] graph) {
         int n = graph.length;
-        
-        int[] coloring = new int[n];
+        int[] isColored = new int[n];
         
         // mark color to uncolor
         for(int i = 0; i < n; i++) {
-            coloring[i] = -1;
+            isColored[i] = -1;
         }
         
         for(int i = 0; i < n; i++) {
-            if(coloring[i] == -1) {
-                if(!bfs(graph, coloring, i)) {
+            if(isColored[i] == -1) {
+                if(!bfs(graph, isColored, i)) {
                     return false;
                 }
             }
         }
-        
         return true;
     }
     
-    public boolean bfs(int[][] graph, int[] coloring, int idx) {
+    public boolean bfs(int[][] graph, int[] isColored, int idx) {
         // 0 - red
         // 1 - blue
         
         Queue<Integer> q = new LinkedList<>();
         
         q.add(idx);
-        coloring[idx] = 0;
+        isColored[idx] = 0;
         
         while(q.size() > 0) {
             int neighbour = q.remove();
-            
             for(int i = 0; i < graph[neighbour].length; i++) {
-                
                 int node = graph[neighbour][i];
-                
-                if(coloring[node] == -1) {
-                    
+                // unvisted
+                if(isColored[node] == -1) {
                     // mark opposite color of adjacent node
-                    if(coloring[neighbour] == 0) {
-                        coloring[node] = 1;
-                    } else {
-                        coloring[node] = 0;
+                    if(isColored[neighbour] == 0) {
+                        isColored[node] = 1;
+                    } 
+                    else {
+                        isColored[node] = 0;
                     }
-                    
                     q.add(node);
                 }
-                
-                else if(coloring[node] == coloring[neighbour]) {
+                //visited and has already same color-means cycle having odd no node
+                else if(isColored[node] == isColored[neighbour]) {
                     return false;
                 }
             }
