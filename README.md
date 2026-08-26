@@ -104,6 +104,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/mohdfaizan091/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/mohdfaizan091/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/mohdfaizan091/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/mohdfaizan091/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohdfaizan091/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Backtracking
@@ -191,6 +192,7 @@
 | [0210-course-schedule-ii](https://github.com/mohdfaizan091/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/mohdfaizan091/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/mohdfaizan091/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/mohdfaizan091/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/mohdfaizan091/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohdfaizan091/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
@@ -207,6 +209,7 @@
 | [0210-course-schedule-ii](https://github.com/mohdfaizan091/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/mohdfaizan091/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/mohdfaizan091/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/mohdfaizan091/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/mohdfaizan091/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohdfaizan091/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Coloring
@@ -222,8 +225,17 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/mohdfaizan091/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/mohdfaizan091/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/mohdfaizan091/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/mohdfaizan091/leetcode/tree/main/0207-course-schedule/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/mohdfaizan091/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/mohdfaizan091/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
