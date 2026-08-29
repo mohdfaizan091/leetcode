@@ -23,7 +23,8 @@ class Solution {
             }
         }
         minEffort[0][0] = 0;
-
+        int[] r = {-1 , 0 , 1 , 0};
+        int[] c = {0 , 1 , 0 , -1};
         PriorityQueue<Triplet> pq = new PriorityQueue<>();
         pq.add(new Triplet(0 , 0 , 0));
 
@@ -33,42 +34,55 @@ class Solution {
             int col = top.col;
             if(row == m-1 && col == n-1) break;
             int effort = top.effort;
-            // up row - 1
-            if(row > 0) {
-                int e = Math.abs(arr[row][col] - arr[row - 1][col]);
+            for(int i=0 ; i<=3 ; i++) {
+                int nr = row + r[i];
+                int nc = col + c[i];
+                if(nr < 0 || nc < 0 || nr >= m || nc >= n) {
+                    continue;
+                }
+                int e = Math.abs(arr[row][col] - arr[nr][nc]);
                 e = Math.max(e , minEffort[row][col]);
-                if(e < minEffort[row -1 ][col]) {
-                    minEffort[row -1 ][col] = e;
-                    pq.add(new Triplet(row - 1 , col , e));
+                if(e < minEffort[nr][nc]) {
+                    minEffort[nr][nc] = e;
+                    pq.add(new Triplet(nr , nc  , e));
                 }
             }
-            // right col + 1
-            if(col <  n -1) {
-                int e = Math.abs(arr[row][col] - arr[row][col + 1]);
-                e = Math.max(e , minEffort[row][col]);
-                if(e < minEffort[row][col + 1]) {
-                    minEffort[row][col + 1] = e;
-                    pq.add(new Triplet(row , col + 1 , e));
-                }
-            }
-            // bottom row + 1
-            if(row <  m - 1) {
-                int e = Math.abs(arr[row][col] - arr[row + 1][col]);
-                e = Math.max(e , minEffort[row][col]);
-                if(e < minEffort[row + 1 ][col]) {
-                    minEffort[row + 1 ][col] = e;
-                    pq.add(new Triplet(row + 1 , col , e));
-                }
-            }
-            // left col - 1
-            if(col >  0) {
-                int e = Math.abs(arr[row][col] - arr[row][col - 1]);
-                e = Math.max(e , minEffort[row][col]);
-                if(e < minEffort[row][col - 1]) {
-                    minEffort[row][col - 1] = e;
-                    pq.add(new Triplet(row , col - 1 , e));
-                }
-            }
+            // // up row - 1
+            // if(row > 0) {
+            //     int e = Math.abs(arr[row][col] - arr[row - 1][col]);
+            //     e = Math.max(e , minEffort[row][col]);
+            //     if(e < minEffort[row -1 ][col]) {
+            //         minEffort[row -1 ][col] = e;
+            //         pq.add(new Triplet(row - 1 , col , e));
+            //     }
+            // }
+            // // right col + 1
+            // if(col <  n -1) {
+            //     int e = Math.abs(arr[row][col] - arr[row][col + 1]);
+            //     e = Math.max(e , minEffort[row][col]);
+            //     if(e < minEffort[row][col + 1]) {
+            //         minEffort[row][col + 1] = e;
+            //         pq.add(new Triplet(row , col + 1 , e));
+            //     }
+            // }
+            // // bottom row + 1
+            // if(row <  m - 1) {
+            //     int e = Math.abs(arr[row][col] - arr[row + 1][col]);
+            //     e = Math.max(e , minEffort[row][col]);
+            //     if(e < minEffort[row + 1 ][col]) {
+            //         minEffort[row + 1 ][col] = e;
+            //         pq.add(new Triplet(row + 1 , col , e));
+            //     }
+            // }
+            // // left col - 1
+            // if(col >  0) {
+            //     int e = Math.abs(arr[row][col] - arr[row][col - 1]);
+            //     e = Math.max(e , minEffort[row][col]);
+            //     if(e < minEffort[row][col - 1]) {
+            //         minEffort[row][col - 1] = e;
+            //         pq.add(new Triplet(row , col - 1 , e));
+            //     }
+            // }
         }
         return minEffort[m-1][n-1];
     }
