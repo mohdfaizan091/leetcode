@@ -1,53 +1,33 @@
 class Solution {
-    public int findCircleNum(int[][] adjMatrix) {
-        int bfs = breadthFirstSearch(adjMatrix);
-        int dsf = depthFirstSearch(adjMatrix);
-        return dsf; 
-    }
-    public int breadthFirstSearch(int[][] adjMatrix) {
-        int n = adjMatrix.length;
-        int count = 0;
-        boolean[] isVisited = new boolean[n];
-        for(int i=0 ; i<n ; i++) {
-            if(!isVisited[i]) {
-                bfs(isVisited , adjMatrix , i);
-                count++;
-            }
+    static int[] parent;
+    public void union(int a , int b) {
+        int leaderA = find(a);
+        int leaderB = find(b);
+        if(leaderA != leaderB) {
+            parent[leaderA] = leaderB;
         }
-        return count;
     }
-    public void bfs(boolean[] isVisited , int[][] adjMatrix , int row) {
-        Queue<Integer> q = new LinkedList<>();
-        isVisited[row] = true;
-        q.add(row);
-        while(q.size() > 0) {
-            int i = q.remove();
-            for(int j=0 ; j<adjMatrix.length ; j++) {
-                if(adjMatrix[i][j] == 1 && !isVisited[j]) {
-                    isVisited[j] = true;
-                    q.add(j);
+    public int find(int a) {
+        if(parent[a] == a) return a;
+        return find(parent[a]);
+    }
+    public int findCircleNum(int[][] isConnected) {
+        int n = isConnected.length;
+        parent = new int[n + 1];
+        for(int i=1 ; i<=n ; i++) {
+            parent[i] = i;
+        }
+        for (int i=0 ; i<n ; i++) {
+            for (int j=0 ; j<n ; j++) {
+                if(i != j && isConnected[i][j] == 1) {
+                    union(i + 1 , j + 1);
                 }
             }
         }
-    }
-    public int depthFirstSearch(int[][] adjMatrix) {
-        int n = adjMatrix.length;
         int count = 0;
-        boolean[] isVisited = new boolean[n];
-        for(int i=0 ; i<n ; i++) {
-            if(!isVisited[i]) {
-                dfs(isVisited , adjMatrix , i);
-                count++;
-            }
+        for (int i=1 ; i<=n ; i++) {
+            if (parent[i] == i) count++;
         }
         return count;
-    }
-    public void dfs(boolean[] isVisited , int[][] adjMatrix , int i) {
-        isVisited[i] = true;
-        for(int j=0 ; j<adjMatrix.length ; j++) {
-            if(!isVisited[j] && adjMatrix[i][j] == 1) {
-                dfs(isVisited , adjMatrix , j);
-            }
-        }
     }
 }
