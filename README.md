@@ -51,6 +51,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/mohdfaizan091/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/mohdfaizan091/leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0881-boats-to-save-people](https://github.com/mohdfaizan091/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0994-rotting-oranges](https://github.com/mohdfaizan091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mohdfaizan091/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/mohdfaizan091/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
@@ -156,6 +157,7 @@
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/mohdfaizan091/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0200-number-of-islands](https://github.com/mohdfaizan091/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/mohdfaizan091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/mohdfaizan091/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Dancing Links
 | Problem Name | Difficulty |
@@ -224,6 +226,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohdfaizan091/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/mohdfaizan091/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/mohdfaizan091/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0994-rotting-oranges](https://github.com/mohdfaizan091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/mohdfaizan091/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohdfaizan091/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
