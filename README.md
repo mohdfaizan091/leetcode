@@ -44,6 +44,7 @@
 | [0136-single-number](https://github.com/mohdfaizan091/leetcode/tree/main/0136-single-number/) | Easy |
 | [0200-number-of-islands](https://github.com/mohdfaizan091/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0260-single-number-iii](https://github.com/mohdfaizan091/leetcode/tree/main/0260-single-number-iii/) | Medium |
+| [0283-move-zeroes](https://github.com/mohdfaizan091/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/mohdfaizan091/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohdfaizan091/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -62,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mohdfaizan091/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0283-move-zeroes](https://github.com/mohdfaizan091/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0647-palindromic-substrings](https://github.com/mohdfaizan091/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0881-boats-to-save-people](https://github.com/mohdfaizan091/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Greedy
