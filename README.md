@@ -36,6 +36,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mohdfaizan091/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/mohdfaizan091/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mohdfaizan091/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0037-sudoku-solver](https://github.com/mohdfaizan091/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/mohdfaizan091/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/mohdfaizan091/leetcode/tree/main/0046-permutations/) | Medium |
@@ -67,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mohdfaizan091/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mohdfaizan091/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/mohdfaizan091/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0647-palindromic-substrings](https://github.com/mohdfaizan091/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0881-boats-to-save-people](https://github.com/mohdfaizan091/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
