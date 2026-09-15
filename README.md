@@ -6,6 +6,7 @@
 | [0013-roman-to-integer](https://github.com/mohdfaizan091/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mohdfaizan091/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0067-add-binary](https://github.com/mohdfaizan091/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/mohdfaizan091/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/mohdfaizan091/leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/mohdfaizan091/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -88,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/mohdfaizan091/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0067-add-binary](https://github.com/mohdfaizan091/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/mohdfaizan091/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0231-power-of-two](https://github.com/mohdfaizan091/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/mohdfaizan091/leetcode/tree/main/0342-power-of-four/) | Easy |
@@ -195,6 +197,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/mohdfaizan091/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/mohdfaizan091/leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/mohdfaizan091/leetcode/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/mohdfaizan091/leetcode/tree/main/0190-reverse-bits/) | Easy |
@@ -354,4 +357,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mohdfaizan091/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/mohdfaizan091/leetcode/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
