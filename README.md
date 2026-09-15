@@ -43,6 +43,7 @@
 | [0046-permutations](https://github.com/mohdfaizan091/leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/mohdfaizan091/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0056-merge-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/mohdfaizan091/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/mohdfaizan091/leetcode/tree/main/0078-subsets/) | Medium |
 | [0118-pascals-triangle](https://github.com/mohdfaizan091/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/mohdfaizan091/leetcode/tree/main/0136-single-number/) | Easy |
@@ -89,6 +90,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/mohdfaizan091/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/mohdfaizan091/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/mohdfaizan091/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/mohdfaizan091/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0231-power-of-two](https://github.com/mohdfaizan091/leetcode/tree/main/0231-power-of-two/) | Easy |
