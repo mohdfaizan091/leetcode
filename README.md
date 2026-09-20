@@ -18,6 +18,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/mohdfaizan091/leetcode/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/mohdfaizan091/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0072-edit-distance](https://github.com/mohdfaizan091/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/mohdfaizan091/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0118-pascals-triangle](https://github.com/mohdfaizan091/leetcode/tree/main/0118-pascals-triangle/) | Easy |
@@ -99,6 +100,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/mohdfaizan091/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0062-unique-paths](https://github.com/mohdfaizan091/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/mohdfaizan091/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/mohdfaizan091/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/mohdfaizan091/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -380,4 +382,8 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/mohdfaizan091/leetcode/tree/main/0067-add-binary/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/mohdfaizan091/leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
