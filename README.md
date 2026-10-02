@@ -61,6 +61,7 @@
 | [0056-merge-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/mohdfaizan091/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/mohdfaizan091/leetcode/tree/main/0078-subsets/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohdfaizan091/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/mohdfaizan091/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohdfaizan091/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/mohdfaizan091/leetcode/tree/main/0136-single-number/) | Easy |
@@ -134,6 +135,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/mohdfaizan091/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohdfaizan091/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohdfaizan091/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -152,6 +154,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/mohdfaizan091/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohdfaizan091/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohdfaizan091/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -197,6 +200,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/mohdfaizan091/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0037-sudoku-solver](https://github.com/mohdfaizan091/leetcode/tree/main/0037-sudoku-solver/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohdfaizan091/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0496-next-greater-element-i](https://github.com/mohdfaizan091/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/mohdfaizan091/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/mohdfaizan091/leetcode/tree/main/0525-contiguous-array/) | Medium |
@@ -269,6 +273,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohdfaizan091/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0190-reverse-bits](https://github.com/mohdfaizan091/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mohdfaizan091/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Prefix Sum
