@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/mohdfaizan091/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0067-add-binary](https://github.com/mohdfaizan091/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/mohdfaizan091/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0394-decode-string](https://github.com/mohdfaizan091/leetcode/tree/main/0394-decode-string/) | Medium |
@@ -25,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/mohdfaizan091/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/mohdfaizan091/leetcode/tree/main/0062-unique-paths/) | Medium |
@@ -415,6 +417,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0394-decode-string](https://github.com/mohdfaizan091/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/mohdfaizan091/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/mohdfaizan091/leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -430,6 +433,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohdfaizan091/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
