@@ -85,6 +85,7 @@
 | [0733-flood-fill](https://github.com/mohdfaizan091/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/mohdfaizan091/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/mohdfaizan091/leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mohdfaizan091/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0881-boats-to-save-people](https://github.com/mohdfaizan091/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/mohdfaizan091/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdfaizan091/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -155,6 +156,7 @@
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/mohdfaizan091/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/mohdfaizan091/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mohdfaizan091/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/mohdfaizan091/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdfaizan091/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/mohdfaizan091/leetcode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
@@ -291,6 +293,7 @@
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/mohdfaizan091/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/mohdfaizan091/leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mohdfaizan091/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdfaizan091/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdfaizan091/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -368,6 +371,7 @@
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/mohdfaizan091/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohdfaizan091/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mohdfaizan091/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/mohdfaizan091/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/mohdfaizan091/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Shortest Path
@@ -460,6 +464,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mohdfaizan091/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdfaizan091/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -488,4 +493,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mohdfaizan091/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mohdfaizan091/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 <!---LeetCode Topics End-->
