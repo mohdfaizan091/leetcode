@@ -11,6 +11,7 @@
 | [0067-add-binary](https://github.com/mohdfaizan091/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/mohdfaizan091/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0394-decode-string](https://github.com/mohdfaizan091/leetcode/tree/main/0394-decode-string/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mohdfaizan091/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/mohdfaizan091/leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/mohdfaizan091/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/mohdfaizan091/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -213,6 +214,7 @@
 | [0013-roman-to-integer](https://github.com/mohdfaizan091/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0037-sudoku-solver](https://github.com/mohdfaizan091/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohdfaizan091/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mohdfaizan091/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/mohdfaizan091/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/mohdfaizan091/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/mohdfaizan091/leetcode/tree/main/0525-contiguous-array/) | Medium |
@@ -464,6 +466,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mohdfaizan091/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mohdfaizan091/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdfaizan091/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Pigeonhole Principle
