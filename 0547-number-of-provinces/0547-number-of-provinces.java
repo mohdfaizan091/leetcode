@@ -1,33 +1,38 @@
 class Solution {
-    static int[] parent;
-    public void union(int a , int b) {
-        int leaderA = find(a);
-        int leaderB = find(b);
-        if(leaderA != leaderB) {
-            parent[leaderA] = leaderB;
-        }
-    }
-    public int find(int a) {
-        if(parent[a] == a) return a;
-        return find(parent[a]);
-    }
+    
     public int findCircleNum(int[][] isConnected) {
         int n = isConnected.length;
-        parent = new int[n + 1];
-        for(int i=1 ; i<=n ; i++) {
-            parent[i] = i;
-        }
-        for (int i=0 ; i<n ; i++) {
-            for (int j=0 ; j<n ; j++) {
-                if(i != j && isConnected[i][j] == 1) {
-                    union(i + 1 , j + 1);
-                }
+        boolean[] isVis = new boolean[n];
+        int count = 0;
+
+        for(int i = 0; i < n; i++) {
+            if(!isVis[i]) {
+                checkConnection(isConnected, isVis, i);
+                count++;
             }
         }
-        int count = 0;
-        for (int i=1 ; i<=n ; i++) {
-            if (parent[i] == i) count++;
-        }
+
         return count;
+    }
+
+    public void checkConnection(int[][] isConnected, boolean[] isVis, int idx) {
+        Queue<Integer> q = new LinkedList<>();
+
+        q.add(idx);
+        isVis[idx] = true;
+
+        while(!q.isEmpty()) {
+            int top = q.remove();
+
+            int j = 0;
+
+            while(j < isConnected.length) {
+                if(!isVis[j] && isConnected[top][j] == 1) {
+                    isVis[j] = true;
+                    q.add(j);
+                }
+                j++;
+            }
+        }
     }
 }
