@@ -17,6 +17,7 @@
 | [0647-palindromic-substrings](https://github.com/mohdfaizan091/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/mohdfaizan091/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohdfaizan091/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohdfaizan091/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1092-shortest-common-supersequence](https://github.com/mohdfaizan091/leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohdfaizan091/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -127,6 +128,7 @@
 | [0678-valid-parenthesis-string](https://github.com/mohdfaizan091/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/mohdfaizan091/leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0881-boats-to-save-people](https://github.com/mohdfaizan091/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohdfaizan091/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mohdfaizan091/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/mohdfaizan091/leetcode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/mohdfaizan091/leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -442,6 +444,7 @@
 | [0856-score-of-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/mohdfaizan091/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/mohdfaizan091/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohdfaizan091/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohdfaizan091/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohdfaizan091/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -455,6 +458,7 @@
 | [0032-longest-valid-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/mohdfaizan091/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohdfaizan091/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohdfaizan091/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
