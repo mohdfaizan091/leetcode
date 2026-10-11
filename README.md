@@ -152,6 +152,7 @@
 | [0096-unique-binary-search-trees](https://github.com/mohdfaizan091/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0231-power-of-two](https://github.com/mohdfaizan091/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/mohdfaizan091/leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0507-perfect-number](https://github.com/mohdfaizan091/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/mohdfaizan091/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/mohdfaizan091/leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/mohdfaizan091/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
