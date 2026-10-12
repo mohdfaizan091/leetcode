@@ -3,6 +3,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mohdfaizan091/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/mohdfaizan091/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mohdfaizan091/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0020-valid-parentheses/) | Easy |
@@ -239,6 +240,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mohdfaizan091/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/mohdfaizan091/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0037-sudoku-solver](https://github.com/mohdfaizan091/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohdfaizan091/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -513,6 +515,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mohdfaizan091/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohdfaizan091/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/mohdfaizan091/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mohdfaizan091/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
