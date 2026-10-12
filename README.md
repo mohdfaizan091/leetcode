@@ -81,6 +81,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohdfaizan091/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0134-gas-station](https://github.com/mohdfaizan091/leetcode/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/mohdfaizan091/leetcode/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/mohdfaizan091/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/mohdfaizan091/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0260-single-number-iii](https://github.com/mohdfaizan091/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/mohdfaizan091/leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -239,6 +240,7 @@
 | [0013-roman-to-integer](https://github.com/mohdfaizan091/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0037-sudoku-solver](https://github.com/mohdfaizan091/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohdfaizan091/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0169-majority-element](https://github.com/mohdfaizan091/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohdfaizan091/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohdfaizan091/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/mohdfaizan091/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -268,6 +270,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0169-majority-element](https://github.com/mohdfaizan091/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohdfaizan091/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohdfaizan091/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -317,6 +320,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohdfaizan091/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0169-majority-element](https://github.com/mohdfaizan091/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/mohdfaizan091/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mohdfaizan091/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Prefix Sum
@@ -546,4 +550,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mohdfaizan091/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/mohdfaizan091/leetcode/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/mohdfaizan091/leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
