@@ -157,6 +157,7 @@
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/mohdfaizan091/leetcode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/mohdfaizan091/leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohdfaizan091/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/mohdfaizan091/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +174,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/mohdfaizan091/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mohdfaizan091/leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohdfaizan091/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/mohdfaizan091/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3871-count-commas-in-range-ii](https://github.com/mohdfaizan091/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
