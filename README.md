@@ -93,6 +93,7 @@
 | [0283-move-zeroes](https://github.com/mohdfaizan091/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/mohdfaizan091/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mohdfaizan091/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/mohdfaizan091/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohdfaizan091/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0496-next-greater-element-i](https://github.com/mohdfaizan091/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -295,6 +296,7 @@
 | [0056-merge-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/mohdfaizan091/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mohdfaizan091/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/mohdfaizan091/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohdfaizan091/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/mohdfaizan091/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
