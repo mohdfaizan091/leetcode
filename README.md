@@ -40,6 +40,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohdfaizan091/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/mohdfaizan091/leetcode/tree/main/2047-number-of-valid-words-in-a-sentence/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/mohdfaizan091/leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +132,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/mohdfaizan091/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mohdfaizan091/leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohdfaizan091/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/mohdfaizan091/leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohdfaizan091/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/mohdfaizan091/leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mohdfaizan091/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -288,6 +290,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdfaizan091/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdfaizan091/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohdfaizan091/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/mohdfaizan091/leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mohdfaizan091/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohdfaizan091/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Matrix
@@ -322,6 +325,7 @@
 | [0912-sort-an-array](https://github.com/mohdfaizan091/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mohdfaizan091/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/mohdfaizan091/leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/mohdfaizan091/leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohdfaizan091/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Timsort
