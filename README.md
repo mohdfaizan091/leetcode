@@ -102,6 +102,7 @@
 | [0525-contiguous-array](https://github.com/mohdfaizan091/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohdfaizan091/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/mohdfaizan091/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0724-find-pivot-index](https://github.com/mohdfaizan091/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/mohdfaizan091/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/mohdfaizan091/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/mohdfaizan091/leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
@@ -360,6 +361,7 @@
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/mohdfaizan091/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/mohdfaizan091/leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [0724-find-pivot-index](https://github.com/mohdfaizan091/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mohdfaizan091/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdfaizan091/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
