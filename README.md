@@ -122,6 +122,7 @@
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/mohdfaizan091/leetcode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/mohdfaizan091/leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohdfaizan091/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1991-find-the-middle-index-in-array](https://github.com/mohdfaizan091/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mohdfaizan091/leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohdfaizan091/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohdfaizan091/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -366,6 +367,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdfaizan091/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdfaizan091/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1991-find-the-middle-index-in-array](https://github.com/mohdfaizan091/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
