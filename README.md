@@ -42,6 +42,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/mohdfaizan091/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/mohdfaizan091/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/mohdfaizan091/leetcode/tree/main/0062-unique-paths/) | Medium |
@@ -74,6 +75,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohdfaizan091/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0037-sudoku-solver](https://github.com/mohdfaizan091/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/mohdfaizan091/leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/mohdfaizan091/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/mohdfaizan091/leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/mohdfaizan091/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -137,6 +139,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mohdfaizan091/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohdfaizan091/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/mohdfaizan091/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/mohdfaizan091/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/mohdfaizan091/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/mohdfaizan091/leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -501,6 +504,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/mohdfaizan091/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0394-decode-string](https://github.com/mohdfaizan091/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/mohdfaizan091/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/mohdfaizan091/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -561,6 +565,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/mohdfaizan091/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/mohdfaizan091/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/mohdfaizan091/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/mohdfaizan091/leetcode/tree/main/0901-online-stock-span/) | Medium |
