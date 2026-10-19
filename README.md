@@ -125,6 +125,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mohdfaizan091/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/mohdfaizan091/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/mohdfaizan091/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/mohdfaizan091/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/mohdfaizan091/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdfaizan091/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -307,6 +308,7 @@
 | [0733-flood-fill](https://github.com/mohdfaizan091/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0867-transpose-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/mohdfaizan091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/mohdfaizan091/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/mohdfaizan091/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohdfaizan091/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2643-row-with-maximum-ones](https://github.com/mohdfaizan091/leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
