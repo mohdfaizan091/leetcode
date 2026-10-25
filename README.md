@@ -112,6 +112,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/mohdfaizan091/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/mohdfaizan091/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0695-max-area-of-island](https://github.com/mohdfaizan091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0724-find-pivot-index](https://github.com/mohdfaizan091/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/mohdfaizan091/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/mohdfaizan091/leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -249,6 +250,7 @@
 | [0547-number-of-provinces](https://github.com/mohdfaizan091/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0684-redundant-connection](https://github.com/mohdfaizan091/leetcode/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/mohdfaizan091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/mohdfaizan091/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/mohdfaizan091/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/mohdfaizan091/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -309,6 +311,7 @@
 | [0054-spiral-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/mohdfaizan091/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0695-max-area-of-island](https://github.com/mohdfaizan091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/mohdfaizan091/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0867-transpose-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/mohdfaizan091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -405,6 +408,7 @@
 | [0547-number-of-provinces](https://github.com/mohdfaizan091/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0684-redundant-connection](https://github.com/mohdfaizan091/leetcode/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/mohdfaizan091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/mohdfaizan091/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/mohdfaizan091/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/mohdfaizan091/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -420,6 +424,7 @@
 | [0200-number-of-islands](https://github.com/mohdfaizan091/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/mohdfaizan091/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/mohdfaizan091/leetcode/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/mohdfaizan091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/mohdfaizan091/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/mohdfaizan091/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/mohdfaizan091/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
