@@ -118,6 +118,7 @@
 | [0724-find-pivot-index](https://github.com/mohdfaizan091/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/mohdfaizan091/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/mohdfaizan091/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/mohdfaizan091/leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mohdfaizan091/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0867-transpose-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -322,6 +323,7 @@
 | [0566-reshape-the-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0695-max-area-of-island](https://github.com/mohdfaizan091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/mohdfaizan091/leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/mohdfaizan091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
