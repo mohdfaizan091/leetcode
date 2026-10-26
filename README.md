@@ -128,6 +128,7 @@
 | [0994-rotting-oranges](https://github.com/mohdfaizan091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mohdfaizan091/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/mohdfaizan091/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/mohdfaizan091/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -223,6 +224,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohdfaizan091/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohdfaizan091/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mohdfaizan091/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/mohdfaizan091/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdfaizan091/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/mohdfaizan091/leetcode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
@@ -321,6 +323,7 @@
 | [0733-flood-fill](https://github.com/mohdfaizan091/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0867-transpose-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/mohdfaizan091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/mohdfaizan091/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/mohdfaizan091/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
