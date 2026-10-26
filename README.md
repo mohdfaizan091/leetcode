@@ -143,6 +143,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/mohdfaizan091/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mohdfaizan091/leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohdfaizan091/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/mohdfaizan091/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohdfaizan091/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/mohdfaizan091/leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohdfaizan091/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -309,6 +310,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdfaizan091/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdfaizan091/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohdfaizan091/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/mohdfaizan091/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/mohdfaizan091/leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mohdfaizan091/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohdfaizan091/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
