@@ -155,6 +155,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohdfaizan091/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohdfaizan091/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohdfaizan091/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,6 +273,7 @@
 | [1631-path-with-minimum-effort](https://github.com/mohdfaizan091/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohdfaizan091/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdfaizan091/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohdfaizan091/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +342,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohdfaizan091/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/mohdfaizan091/leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/mohdfaizan091/leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohdfaizan091/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -441,6 +444,7 @@
 | [0994-rotting-oranges](https://github.com/mohdfaizan091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/mohdfaizan091/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohdfaizan091/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohdfaizan091/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,6 +456,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/mohdfaizan091/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/mohdfaizan091/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohdfaizan091/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohdfaizan091/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
