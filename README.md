@@ -147,6 +147,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohdfaizan091/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/mohdfaizan091/leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohdfaizan091/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/mohdfaizan091/leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/mohdfaizan091/leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mohdfaizan091/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mohdfaizan091/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -334,6 +335,7 @@
 | [1631-path-with-minimum-effort](https://github.com/mohdfaizan091/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/mohdfaizan091/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohdfaizan091/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/mohdfaizan091/leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/mohdfaizan091/leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Dancing Links
 | Problem Name | Difficulty |
@@ -414,6 +416,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdfaizan091/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/mohdfaizan091/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/mohdfaizan091/leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
