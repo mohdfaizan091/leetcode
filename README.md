@@ -97,6 +97,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohdfaizan091/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0134-gas-station](https://github.com/mohdfaizan091/leetcode/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/mohdfaizan091/leetcode/tree/main/0136-single-number/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohdfaizan091/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/mohdfaizan091/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/mohdfaizan091/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0260-single-number-iii](https://github.com/mohdfaizan091/leetcode/tree/main/0260-single-number-iii/) | Medium |
@@ -203,6 +204,7 @@
 | [0066-plus-one](https://github.com/mohdfaizan091/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/mohdfaizan091/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/mohdfaizan091/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohdfaizan091/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0231-power-of-two](https://github.com/mohdfaizan091/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/mohdfaizan091/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0507-perfect-number](https://github.com/mohdfaizan091/leetcode/tree/main/0507-perfect-number/) | Easy |
@@ -567,6 +569,7 @@
 | [0020-valid-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/mohdfaizan091/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohdfaizan091/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0394-decode-string](https://github.com/mohdfaizan091/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/mohdfaizan091/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/mohdfaizan091/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
