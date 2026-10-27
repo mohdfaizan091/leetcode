@@ -114,6 +114,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/mohdfaizan091/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/mohdfaizan091/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0682-baseball-game](https://github.com/mohdfaizan091/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0695-max-area-of-island](https://github.com/mohdfaizan091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0724-find-pivot-index](https://github.com/mohdfaizan091/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/mohdfaizan091/leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -569,6 +570,7 @@
 | [0394-decode-string](https://github.com/mohdfaizan091/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/mohdfaizan091/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/mohdfaizan091/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0682-baseball-game](https://github.com/mohdfaizan091/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/mohdfaizan091/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/mohdfaizan091/leetcode/tree/main/0901-online-stock-span/) | Medium |
@@ -608,6 +610,7 @@
 | [0067-add-binary](https://github.com/mohdfaizan091/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0289-game-of-life](https://github.com/mohdfaizan091/leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0682-baseball-game](https://github.com/mohdfaizan091/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
