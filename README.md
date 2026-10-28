@@ -116,6 +116,7 @@
 | [0525-contiguous-array](https://github.com/mohdfaizan091/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohdfaizan091/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0605-can-place-flowers](https://github.com/mohdfaizan091/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/mohdfaizan091/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/mohdfaizan091/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0682-baseball-game](https://github.com/mohdfaizan091/leetcode/tree/main/0682-baseball-game/) | Easy |
@@ -189,6 +190,7 @@
 | [0409-longest-palindrome](https://github.com/mohdfaizan091/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohdfaizan091/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0605-can-place-flowers](https://github.com/mohdfaizan091/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/mohdfaizan091/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/mohdfaizan091/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/mohdfaizan091/leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
