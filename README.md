@@ -116,6 +116,7 @@
 | [0525-contiguous-array](https://github.com/mohdfaizan091/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohdfaizan091/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/mohdfaizan091/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/mohdfaizan091/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0682-baseball-game](https://github.com/mohdfaizan091/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0695-max-area-of-island](https://github.com/mohdfaizan091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
@@ -633,6 +634,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/mohdfaizan091/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohdfaizan091/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/mohdfaizan091/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/mohdfaizan091/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mohdfaizan091/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdfaizan091/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Pigeonhole Principle
