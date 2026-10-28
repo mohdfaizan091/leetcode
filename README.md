@@ -72,6 +72,7 @@
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/mohdfaizan091/leetcode/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohdfaizan091/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohdfaizan091/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mohdfaizan091/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +164,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/mohdfaizan091/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohdfaizan091/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohdfaizan091/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mohdfaizan091/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,6 +357,7 @@
 | [2428-maximum-sum-of-an-hourglass](https://github.com/mohdfaizan091/leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/mohdfaizan091/leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohdfaizan091/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mohdfaizan091/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -410,6 +413,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/mohdfaizan091/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/mohdfaizan091/leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mohdfaizan091/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
