@@ -28,6 +28,7 @@
 | [0647-palindromic-substrings](https://github.com/mohdfaizan091/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/mohdfaizan091/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/mohdfaizan091/leetcode/tree/main/0796-rotate-string/) | Easy |
+| [0830-positions-of-large-groups](https://github.com/mohdfaizan091/leetcode/tree/main/0830-positions-of-large-groups/) | Easy |
 | [0844-backspace-string-compare](https://github.com/mohdfaizan091/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohdfaizan091/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
