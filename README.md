@@ -42,6 +42,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mohdfaizan091/leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohdfaizan091/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/mohdfaizan091/leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohdfaizan091/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/mohdfaizan091/leetcode/tree/main/2047-number-of-valid-words-in-a-sentence/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/mohdfaizan091/leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
@@ -697,6 +698,7 @@
 | [0169-majority-element](https://github.com/mohdfaizan091/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/mohdfaizan091/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mohdfaizan091/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/mohdfaizan091/leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
