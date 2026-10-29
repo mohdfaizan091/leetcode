@@ -44,6 +44,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/mohdfaizan091/leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/mohdfaizan091/leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/mohdfaizan091/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohdfaizan091/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/mohdfaizan091/leetcode/tree/main/2047-number-of-valid-words-in-a-sentence/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/mohdfaizan091/leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
@@ -192,6 +193,7 @@
 | [0881-boats-to-save-people](https://github.com/mohdfaizan091/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mohdfaizan091/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/mohdfaizan091/leetcode/tree/main/1089-duplicate-zeros/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/mohdfaizan091/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
