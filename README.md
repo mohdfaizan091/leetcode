@@ -46,6 +46,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/mohdfaizan091/leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mohdfaizan091/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohdfaizan091/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1816-truncate-sentence](https://github.com/mohdfaizan091/leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/mohdfaizan091/leetcode/tree/main/2047-number-of-valid-words-in-a-sentence/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/mohdfaizan091/leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Dynamic Programming
@@ -158,6 +159,7 @@
 | [1672-richest-customer-wealth](https://github.com/mohdfaizan091/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/mohdfaizan091/leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohdfaizan091/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1816-truncate-sentence](https://github.com/mohdfaizan091/leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/mohdfaizan091/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mohdfaizan091/leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohdfaizan091/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
