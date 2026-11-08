@@ -148,6 +148,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdfaizan091/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mohdfaizan091/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/mohdfaizan091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [0997-find-the-town-judge](https://github.com/mohdfaizan091/leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mohdfaizan091/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1089-duplicate-zeros](https://github.com/mohdfaizan091/leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1122-relative-sort-array](https://github.com/mohdfaizan091/leetcode/tree/main/1122-relative-sort-array/) | Easy |
@@ -360,6 +361,7 @@
 | [0781-rabbits-in-forest](https://github.com/mohdfaizan091/leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0846-hand-of-straights](https://github.com/mohdfaizan091/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdfaizan091/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0997-find-the-town-judge](https://github.com/mohdfaizan091/leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1122-relative-sort-array](https://github.com/mohdfaizan091/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mohdfaizan091/leetcode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdfaizan091/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -527,6 +529,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohdfaizan091/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/mohdfaizan091/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/mohdfaizan091/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0997-find-the-town-judge](https://github.com/mohdfaizan091/leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mohdfaizan091/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/mohdfaizan091/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/mohdfaizan091/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
