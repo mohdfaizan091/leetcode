@@ -23,6 +23,7 @@
 | [0409-longest-palindrome](https://github.com/mohdfaizan091/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/mohdfaizan091/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohdfaizan091/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0520-detect-capital](https://github.com/mohdfaizan091/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0567-permutation-in-string](https://github.com/mohdfaizan091/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/mohdfaizan091/leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/mohdfaizan091/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
