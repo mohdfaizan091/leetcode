@@ -132,6 +132,7 @@
 | [0605-can-place-flowers](https://github.com/mohdfaizan091/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/mohdfaizan091/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/mohdfaizan091/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0661-image-smoother](https://github.com/mohdfaizan091/leetcode/tree/main/0661-image-smoother/) | Easy |
 | [0682-baseball-game](https://github.com/mohdfaizan091/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0695-max-area-of-island](https://github.com/mohdfaizan091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0724-find-pivot-index](https://github.com/mohdfaizan091/leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -382,6 +383,7 @@
 | [0200-number-of-islands](https://github.com/mohdfaizan091/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0289-game-of-life](https://github.com/mohdfaizan091/leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0661-image-smoother](https://github.com/mohdfaizan091/leetcode/tree/main/0661-image-smoother/) | Easy |
 | [0695-max-area-of-island](https://github.com/mohdfaizan091/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/mohdfaizan091/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
