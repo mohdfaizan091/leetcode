@@ -145,6 +145,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mohdfaizan091/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0867-transpose-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/mohdfaizan091/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/mohdfaizan091/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/mohdfaizan091/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0912-sort-an-array](https://github.com/mohdfaizan091/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/mohdfaizan091/leetcode/tree/main/0941-valid-mountain-array/) | Easy |
@@ -208,6 +209,7 @@
 | [0763-partition-labels](https://github.com/mohdfaizan091/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0844-backspace-string-compare](https://github.com/mohdfaizan091/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0881-boats-to-save-people](https://github.com/mohdfaizan091/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/mohdfaizan091/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/mohdfaizan091/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/mohdfaizan091/leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mohdfaizan091/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -421,6 +423,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/mohdfaizan091/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0846-hand-of-straights](https://github.com/mohdfaizan091/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/mohdfaizan091/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/mohdfaizan091/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/mohdfaizan091/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mohdfaizan091/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mohdfaizan091/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
