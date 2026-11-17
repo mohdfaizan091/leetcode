@@ -157,6 +157,7 @@
 | [1046-last-stone-weight](https://github.com/mohdfaizan091/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1089-duplicate-zeros](https://github.com/mohdfaizan091/leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1122-relative-sort-array](https://github.com/mohdfaizan091/leetcode/tree/main/1122-relative-sort-array/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/mohdfaizan091/leetcode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mohdfaizan091/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mohdfaizan091/leetcode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
@@ -428,6 +429,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/mohdfaizan091/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mohdfaizan091/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1122-relative-sort-array](https://github.com/mohdfaizan091/leetcode/tree/main/1122-relative-sort-array/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/mohdfaizan091/leetcode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mohdfaizan091/leetcode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mohdfaizan091/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/mohdfaizan091/leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
