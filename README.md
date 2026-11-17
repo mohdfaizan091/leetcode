@@ -30,6 +30,7 @@
 | [0649-dota2-senate](https://github.com/mohdfaizan091/leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/mohdfaizan091/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0763-partition-labels](https://github.com/mohdfaizan091/leetcode/tree/main/0763-partition-labels/) | Medium |
+| [0771-jewels-and-stones](https://github.com/mohdfaizan091/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/mohdfaizan091/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0830-positions-of-large-groups](https://github.com/mohdfaizan091/leetcode/tree/main/0830-positions-of-large-groups/) | Easy |
 | [0844-backspace-string-compare](https://github.com/mohdfaizan091/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -362,6 +363,7 @@
 | [0525-contiguous-array](https://github.com/mohdfaizan091/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/mohdfaizan091/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0763-partition-labels](https://github.com/mohdfaizan091/leetcode/tree/main/0763-partition-labels/) | Medium |
+| [0771-jewels-and-stones](https://github.com/mohdfaizan091/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/mohdfaizan091/leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0846-hand-of-straights](https://github.com/mohdfaizan091/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdfaizan091/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
