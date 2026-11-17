@@ -151,6 +151,7 @@
 | [0994-rotting-oranges](https://github.com/mohdfaizan091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/mohdfaizan091/leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mohdfaizan091/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1046-last-stone-weight](https://github.com/mohdfaizan091/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1089-duplicate-zeros](https://github.com/mohdfaizan091/leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1122-relative-sort-array](https://github.com/mohdfaizan091/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mohdfaizan091/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -569,6 +570,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohdfaizan091/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mohdfaizan091/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0912-sort-an-array](https://github.com/mohdfaizan091/leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1046-last-stone-weight](https://github.com/mohdfaizan091/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/mohdfaizan091/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/mohdfaizan091/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohdfaizan091/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
