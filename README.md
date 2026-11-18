@@ -715,10 +715,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/mohdfaizan091/leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/mohdfaizan091/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/mohdfaizan091/leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/mohdfaizan091/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -733,6 +735,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/mohdfaizan091/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0649-dota2-senate](https://github.com/mohdfaizan091/leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mohdfaizan091/leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0933-number-of-recent-calls](https://github.com/mohdfaizan091/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
