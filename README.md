@@ -156,6 +156,7 @@
 | [0997-find-the-town-judge](https://github.com/mohdfaizan091/leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mohdfaizan091/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1046-last-stone-weight](https://github.com/mohdfaizan091/leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1051-height-checker](https://github.com/mohdfaizan091/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/mohdfaizan091/leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1122-relative-sort-array](https://github.com/mohdfaizan091/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/mohdfaizan091/leetcode/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -429,6 +430,7 @@
 | [0912-sort-an-array](https://github.com/mohdfaizan091/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mohdfaizan091/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mohdfaizan091/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1051-height-checker](https://github.com/mohdfaizan091/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/mohdfaizan091/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/mohdfaizan091/leetcode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mohdfaizan091/leetcode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
@@ -772,6 +774,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/mohdfaizan091/leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1051-height-checker](https://github.com/mohdfaizan091/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/mohdfaizan091/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -800,6 +803,7 @@
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1051-height-checker](https://github.com/mohdfaizan091/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/mohdfaizan091/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
