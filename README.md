@@ -272,6 +272,7 @@
 | [0110-balanced-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohdfaizan091/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/mohdfaizan091/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdfaizan091/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -301,6 +302,7 @@
 | [0110-balanced-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohdfaizan091/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/mohdfaizan091/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdfaizan091/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -313,6 +315,7 @@
 | [0207-course-schedule](https://github.com/mohdfaizan091/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/mohdfaizan091/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/mohdfaizan091/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/mohdfaizan091/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -506,6 +509,7 @@
 | [0207-course-schedule](https://github.com/mohdfaizan091/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/mohdfaizan091/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0404-sum-of-left-leaves](https://github.com/mohdfaizan091/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0547-number-of-provinces](https://github.com/mohdfaizan091/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0684-redundant-connection](https://github.com/mohdfaizan091/leetcode/tree/main/0684-redundant-connection/) | Medium |
