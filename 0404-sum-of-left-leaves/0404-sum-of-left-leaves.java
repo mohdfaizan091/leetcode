@@ -14,22 +14,21 @@
  * }
  */
 class Solution {
+    int ans;
+    public void sumOfLeft(TreeNode root , String side) {
+        if(root == null) return;
+
+        if(side == "L" && root.left == null && root.right == null) {
+            ans += root.val;
+        }
+
+        sumOfLeft(root.left , "L");
+        sumOfLeft(root.right , "R");
+    }
     public int sumOfLeftLeaves(TreeNode root) {
-        if (root == null) {
-            return 0;
-        }
-
-        int sum = 0;
-
-        
-        if (root.left != null && root.left.left == null && root.left.right == null) {
-            sum += root.left.val;
-        } else {
-            sum += sumOfLeftLeaves(root.left);
-        }
-
-        sum += sumOfLeftLeaves(root.right);
-
-        return sum;
+        ans = 0;
+        sumOfLeft(root.left , "L");
+        sumOfLeft(root.right , "R");
+        return ans;
     }
 }
