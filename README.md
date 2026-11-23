@@ -472,6 +472,7 @@
 | [0231-power-of-two](https://github.com/mohdfaizan091/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/mohdfaizan091/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0342-power-of-four](https://github.com/mohdfaizan091/leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0461-hamming-distance](https://github.com/mohdfaizan091/leetcode/tree/main/0461-hamming-distance/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/mohdfaizan091/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/mohdfaizan091/leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
