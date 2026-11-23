@@ -160,6 +160,7 @@
 | [1089-duplicate-zeros](https://github.com/mohdfaizan091/leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1122-relative-sort-array](https://github.com/mohdfaizan091/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/mohdfaizan091/leetcode/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mohdfaizan091/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mohdfaizan091/leetcode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/mohdfaizan091/leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
@@ -260,6 +261,7 @@
 | [0507-perfect-number](https://github.com/mohdfaizan091/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/mohdfaizan091/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/mohdfaizan091/leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mohdfaizan091/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/mohdfaizan091/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mohdfaizan091/leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -694,6 +696,7 @@
 | [0682-baseball-game](https://github.com/mohdfaizan091/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/mohdfaizan091/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0867-transpose-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/mohdfaizan091/leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
