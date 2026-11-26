@@ -37,6 +37,7 @@
 | [0844-backspace-string-compare](https://github.com/mohdfaizan091/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohdfaizan091/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1002-find-common-characters](https://github.com/mohdfaizan091/leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/mohdfaizan091/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohdfaizan091/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1092-shortest-common-supersequence](https://github.com/mohdfaizan091/leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
@@ -154,6 +155,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/mohdfaizan091/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/mohdfaizan091/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/mohdfaizan091/leetcode/tree/main/0997-find-the-town-judge/) | Easy |
+| [1002-find-common-characters](https://github.com/mohdfaizan091/leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mohdfaizan091/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1046-last-stone-weight](https://github.com/mohdfaizan091/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/mohdfaizan091/leetcode/tree/main/1051-height-checker/) | Easy |
@@ -380,6 +382,7 @@
 | [0846-hand-of-straights](https://github.com/mohdfaizan091/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdfaizan091/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0997-find-the-town-judge](https://github.com/mohdfaizan091/leetcode/tree/main/0997-find-the-town-judge/) | Easy |
+| [1002-find-common-characters](https://github.com/mohdfaizan091/leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1122-relative-sort-array](https://github.com/mohdfaizan091/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mohdfaizan091/leetcode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdfaizan091/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
