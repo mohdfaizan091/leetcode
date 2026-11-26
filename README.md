@@ -281,6 +281,7 @@
 | [0404-sum-of-left-leaves](https://github.com/mohdfaizan091/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/mohdfaizan091/leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdfaizan091/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -311,6 +312,7 @@
 | [0404-sum-of-left-leaves](https://github.com/mohdfaizan091/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohdfaizan091/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/mohdfaizan091/leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdfaizan091/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -333,6 +335,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/mohdfaizan091/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/mohdfaizan091/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/mohdfaizan091/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/mohdfaizan091/leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/mohdfaizan091/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mohdfaizan091/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdfaizan091/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
